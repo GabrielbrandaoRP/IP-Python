@@ -1,0 +1,22 @@
+Classes:
+
+Classes são a junção de varios de tipos de dados que não podem ser representados por dados primitivos
+
+Criação de variaveis:
+
+para a declaração de variaveis o unico caractere especial aceito é o underline "_"
+
+
+Operadores lógicos:
+
+Operador         Descrição      em Python
+
+não                  negação         not
+e                      conjunção      and
+ou                    disjunção       or
+
+
+idade = int(input("Digite a sua idade: "))
+
+if idade > 17:
+    print("Pode entrar na festa!")
